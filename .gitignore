@@ -1,2 +1,4 @@
 .idea
-1.LLD.iml
+*.iml
+*/.gradle
+*/build
